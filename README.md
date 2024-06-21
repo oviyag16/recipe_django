@@ -27,6 +27,8 @@ Update the home view to display recipes:
 9.Modify the home view to query and pass recipes to the template.
 Create a form for adding recipes:
 
+
+
 10.Create a Django form for the Recipe model.
 Create a view for adding recipes:
 
